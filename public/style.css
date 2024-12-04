@@ -1,0 +1,26 @@
+#container {
+    text-align: center;
+}
+
+.chart-container{
+    display: flex;
+    justify-content:space-between;
+}
+
+.mage-container{
+    display: flex;
+    justify-content: center;
+}
+
+
+#temperature-container{
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 50px;
+    background-color: aqua;
+    font-style: italic;
+    font-weight: 900;
+    margin: 0 auto;
+    width: 50%;
+}
